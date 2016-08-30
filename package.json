@@ -1,0 +1,15 @@
+{
+  "name": "nodebot",
+  "version": "1.0.0",
+  "description": "test nodebot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.2.3",
+    "restify": "^4.1.1"
+  }
+}
